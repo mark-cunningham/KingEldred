@@ -1,0 +1,3 @@
+-	-	Start	-
+-	Path	Path	Room
+-	Room	Room	-
